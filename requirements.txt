@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+lightgbm
+mlflow
+scikit-learn
+python-dotenv
